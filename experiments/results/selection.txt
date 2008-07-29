@@ -1,0 +1,28 @@
+f5_p=0.4 Normal
+f5_p=0.4 Normal
+f5_p=0.4 Normal
+f5_p=0.4 Reconstructed
+f5_p=0.4 Reconstructed
+f5_p=0.4 Reconstructed
+
+f5_p=0.5 Normal
+f5_p=0.5 Normal
+f5_p=0.5 Reconstructed
+f5_p=0.5 Reconstructed
+f5_p=0.5 Reconstructed
+f5_p=0.5 Reconstructed
+
+
+f5_p=0.6 Normal
+f5_p=0.6 Reconstructed
+f5_p=0.6 Reconstructed
+f5_p=0.6 Reconstructed
+f5_p=0.6 Reconstructed
+f5_p=0.6 Reconstructed
+
+f5_p=0.7 Normal
+f5_p=0.7 Normal
+f5_p=0.7 Reconstructed
+f5_p=0.7 Reconstructed
+f5_p=0.7 Reconstructed
+f5_p=0.7 Reconstructed

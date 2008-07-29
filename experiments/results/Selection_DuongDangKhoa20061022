@@ -1,0 +1,21 @@
+File type = "ooTextFile"
+Object class = "ResultsMFC 1"
+
+numberOfTrials = 4 
+result []: 
+    result [1]:
+        stimulus = "f5_p=0.6_t=1.0,pau2,f5_p=0.6_t=1.0_re" 
+        response = "Reconstructed" 
+        goodness = 0 
+    result [2]:
+        stimulus = "f5_p=0.5_t=1.0_re,pau2,f5_p=0.5_t=1.0" 
+        response = "Normal" 
+        goodness = 0 
+    result [3]:
+        stimulus = "f5_p=0.4_t=1.0,pau2,f5_p=0.4_t=1.0_re" 
+        response = "Reconstructed" 
+        goodness = 0 
+    result [4]:
+        stimulus = "f5_p=0.7_t=1.0_re,pau2,f5_p=0.7_t=1.0" 
+        response = "Reconstructed" 
+        goodness = 0 

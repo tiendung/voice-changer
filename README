@@ -1,0 +1,4 @@
+Time-Domain Pitch and Time Scale Modification of Speech Signal (aka VoiceChanger)
+
+For console app, read docs/userguide.pdf.
+For GUI app, start CS5249GUI.m in "src" folder.

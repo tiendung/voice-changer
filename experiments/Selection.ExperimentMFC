@@ -1,0 +1,30 @@
+"ooTextFile"
+"ExperimentMFC 4"
+stimuliAreSounds? <yes>
+stimulusFileNameHead = "Sounds/"
+stimulusFileNameTail = ".wav"
+stimulusCarrierBefore = ""
+stimulusCarrierAfter = ""
+stimulusInitialSilenceDuration = 0.5 seconds
+stimulusMedialSilenceDuration = 0
+numberOfDifferentStimuli = 4
+"f5_p=0.4_t=1.0,pau2,f5_p=0.4_t=1.0_re" ""
+"f5_p=0.5_t=1.0_re,pau2,f5_p=0.5_t=1.0" ""
+"f5_p=0.6_t=1.0,pau2,f5_p=0.6_t=1.0_re" ""
+"f5_p=0.7_t=1.0_re,pau2,f5_p=0.7_t=1.0" ""
+numberOfReplicationsPerStimulus = 1
+breakAfterEvery = 0
+randomize = <PermuteBalancedNoDoublets>
+startText = "Click to start."
+runText = "Which one is better?"
+pauseText = "You can have a short break if you like. Click to proceed."
+endText = "The experiment has finished."
+maximumNumberOfReplays = 2
+replayButton = 0.52 0.62 0.6 0.7 "Replay" ""
+okButton =     0.38 0.48 0.6 0.7 "OK" ""
+oopsButton = 0 0 0 0 "" ""
+responsesAreSounds? <no> "" "" "" "" 0 0
+numberOfDifferentResponses = 2
+    0.3 0.48 0.75 0.85 "First" "" "Normal"
+    0.52 0.7 0.75 0.85 "Second" "" "Reconstructed"
+numberOfGoodnessCategories = 0
